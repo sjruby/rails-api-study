@@ -41,7 +41,7 @@ In your own words, define what the responsibilities of the model layer are in
 Rails.
 
 ```md
-<!-- your answer here -->
+The model is essentially checking/validating an exchange of informtaion between the client and server
 ```
 
 ## Define Controller Responsibilities
@@ -50,7 +50,7 @@ In your own words, define what the responsibilities of the controller layer are
 in Rails.
 
 ```md
-<!-- your answer here -->
+The controller takes in orders from the cliejt and spits out commands to the server
 ```
 
 ## Define Router Responsibilities
@@ -58,7 +58,7 @@ in Rails.
 In your own words, define what the router does in Rails.
 
 ```md
-<!-- your answer here -->
+Takes the URL from the server and sends the necessry information to the ruby controller for the controller to decide what to do
 ```
 
 ## The Request-Response Cycle in Rails
